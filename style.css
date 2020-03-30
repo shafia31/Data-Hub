@@ -1,0 +1,31 @@
+}
+.nav-wrapper{
+   opacity:0.8
+} 
+
+body{
+	background-image: linear-gradient(45deg,turquoise,pink,white);
+}
+@media only screen and (min-width: 755px){
+	.about-me-text{
+		transform: translate(10%);
+	}
+}
+
+ .about-me-text{
+ 	font size: 20px;
+ 	margin-top: 100px;
+ 	transform: translateX(10%);
+ }
+
+ .display-image{
+ 	border-radius: 50%;
+ 	left: 10%;
+ 	transform: translatex(40%);
+ 	height: 300;
+ }
+
+.lang-img{
+	width:5vw;
+ }
+ 
